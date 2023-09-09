@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.profile {
+    margin: 20px;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.datetime {
+    margin-top: 20px;
+    font-size: 24px;
+}
